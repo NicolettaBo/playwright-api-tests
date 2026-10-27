@@ -1,0 +1,1 @@
+# Playwright API Tests framework for JSONPlaceholder API
